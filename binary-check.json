@@ -1,0 +1,11 @@
+{
+  "Engine.dll": {
+    "sha256": "d8f455f2616b2b25082242257c6c92fdce7305b745e2880bc216488a976aca57"
+  },
+  "Core.dll": {
+    "sha256": "f402409d489901f2f61c293988e4267dd32bbd3c24892ac455634e2183e1992f"
+  },
+  "EonEngine.dll": {
+    "sha256": "956dbd8451bfd6fb6b178ef7b5b5a93695c2f8f641e2ce3a5e365ec1924cc59c"
+  }
+}
